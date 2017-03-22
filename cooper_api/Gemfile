@@ -7,7 +7,7 @@ ruby '2.3.1'
   gem 'jbuilder', '~> 2.5'
   gem 'rack-cors', require: 'rack/cors'
   gem 'devise_token_auth'
-  gem 'omniauth'
+  # gem 'omniauth'
 
 group :development, :test do
   gem 'rspec-rails'
